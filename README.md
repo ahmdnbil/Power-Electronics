@@ -18,7 +18,7 @@ In this repo, I will put some *SIMULINK* files to implement some of the ***Power
     - Full wave control
 
 #### **Half wave**
-- it's consists of one thyristor for forward biased and one diode for reversed biased
+- it consists of one thyristor for forward biased and one diode for reversed biased
 - it gives us control over the first half cycle 
 - drawbacks:
     - more DC component
